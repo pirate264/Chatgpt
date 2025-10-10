@@ -28,4 +28,3 @@ It allows users to explore trends, visualize survey results, and gain insights i
 
 ---
 
-## 📂 Project Structure
